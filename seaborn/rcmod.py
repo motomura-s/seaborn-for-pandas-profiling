@@ -204,10 +204,9 @@ def axes_style(style=None, rc=None):
 
 
             "text.color": dark_gray,
-            "font.family": ["sans-serif"],
+            "font.family": ["IPAMincho"],
             "font.sans-serif": ["Arial", "DejaVu Sans", "Liberation Sans",
-                                "Bitstream Vera Sans", "sans-serif"],
-
+                                 "Bitstream Vera Sans", "sans-serif","IPAMincho"], 
 
             "lines.solid_capstyle": "round",
             "patch.edgecolor": "w",
